@@ -7,13 +7,6 @@
 
 </div>
 
-
-
-![Run on Repl.it](https://repl.it/github/siamrahman000/TrackDown)
- 
-
- 
-
 ### How to build
 1. Create a telegram bot through BotFather.
 1. Copy it's API key
